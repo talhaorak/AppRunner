@@ -2,9 +2,11 @@
 Create launchers for your applications with customized working dir, arguments and environment variable
 
 **Building**
+
   `cd src`  
-  `qmake` 
-  `nmake`
+  `qmake`  
+  `nmake`  
+  
 
 
 
