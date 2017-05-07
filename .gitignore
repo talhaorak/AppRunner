@@ -27,3 +27,15 @@
 *.exe
 *.out
 *.app
+
+# Windows
+*.res
+*.pdb
+
+# Qt generated files
+ui_
+qrc_*
+moc_*
+*.pro.user
+Makefile*
+.qmake.stash

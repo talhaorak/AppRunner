@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="Icon">Icon256.png</file>
+        <file>add264.png</file>
+        <file>delete264.png</file>
+        <file>edit64.png</file>
+    </qresource>
+</RCC>
